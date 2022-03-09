@@ -1,0 +1,895 @@
+{'text': 'Apple Event', 'start': 1.767, 'duration': 4.939}
+{'text': 'Apple Event', 'start': 9.742, 'duration': 5.006}
+{'text': 'Apple Event', 'start': 17.783, 'duration': 4.973}
+{'text': 'Apple Event', 'start': 25.791, 'duration': 4.973}
+{'text': 'Apple Event', 'start': 33.799, 'duration': 4.939}
+{'text': 'Apple Event', 'start': 41.774, 'duration': 5.006}
+{'text': 'Apple Event', 'start': 49.815, 'duration': 4.973}
+{'text': 'Apple Event', 'start': 57.823, 'duration': 4.973}
+{'text': 'Apple Event', 'start': 65.831, 'duration': 4.939}
+{'text': 'Apple Event', 'start': 73.806, 'duration': 5.006}
+{'text': 'Apple Event', 'start': 81.847, 'duration': 4.973}
+{'text': 'Apple Event', 'start': 89.855, 'duration': 4.906}
+{'text': 'Apple Event', 'start': 97.797, 'duration': 4.972}
+{'text': 'Apple Event', 'start': 105.771, 'duration': 4.972}
+{'text': 'Apple Event', 'start': 113.813, 'duration': 4.972}
+{'text': 'Apple Event', 'start': 121.821, 'duration': 4.972}
+{'text': 'Apple Event', 'start': 129.829, 'duration': 4.972}
+{'text': 'Apple Event', 'start': 137.803, 'duration': 4.972}
+{'text': 'Apple Event', 'start': 145.845, 'duration': 4.972}
+{'text': '[upbeat music]', 'start': 153.119, 'duration': 7.007}
+{'text': '[♪ ♪]', 'start': 173.105, 'duration': 7.041}
+{'text': 'Tim: Good morning,\nand welcome back to Apple Park!', 'start': 184.083, 'duration': 3.103}
+{'text': 'Thank you for joining us\nfor our first event of 2022.', 'start': 187.22, 'duration': 4.237}
+{'text': 'Today we have some great\nannouncements to share.', 'start': 191.49, 'duration': 2.669}
+{'text': "We've been working hard\nto deliver new products and\nservices", 'start': 194.193, 'duration': 3.136}
+{'text': 'that help you stay connected,\nproductive, and entertained.', 'start': 197.363, 'duration': 3.97}
+{'text': "So let's start with Apple TV+.", 'start': 201.367, 'duration': 3.537}
+{'text': "Like many of you, I've been\nwatching a lot of shows and\nmovies", 'start': 204.937, 'duration': 3.236}
+{'text': "with the time\nI've been spending at home.", 'start': 208.207, 'duration': 2.869}
+{'text': 'Along with our great original\nseries like Ted Lasso, The\nMorning Show,', 'start': 211.11, 'duration': 5.439}
+{'text': 'For All Mankind, Servant,\nand The Afterparty,', 'start': 216.583, 'duration': 3.369}
+{'text': "we're working with some of the\nmost imaginative filmmakers in\nthe world,", 'start': 219.986, 'duration': 4.07}
+{'text': 'and making great original movies\nas well,', 'start': 224.09, 'duration': 3.269}
+{'text': 'like the emotional powerhouse\nSwan Song', 'start': 227.392, 'duration': 3.271}
+{'text': 'featuring a riveting performance\nby Mahershala Ali,', 'start': 230.697, 'duration': 3.402}
+{'text': 'who earned a lead actor\nnomination from the prestigious\nBAFTAS.', 'start': 234.132, 'duration': 4.472}
+{'text': "Joel Coen's\nThe Tragedy of MacBeth,", 'start': 238.637, 'duration': 2.77}
+{'text': 'starring Denzel Washington\nand Frances McDormand.', 'start': 241.44, 'duration': 3.203}
+{'text': 'This beautiful film was\nnominated for three Academy\nAwards,', 'start': 244.71, 'duration': 3.937}
+{'text': 'including Best Actor.', 'start': 248.68, 'duration': 1.736}
+{'text': "Remarkably, this is Denzel's\ntenth Academy Award nomination.", 'start': 250.449, 'duration': 4.604}
+{'text': 'And CODA, which was also\nnominated for three Academy\nAwards,', 'start': 255.087, 'duration': 4.705}
+{'text': 'including Best Picture.', 'start': 259.825, 'duration': 1.902}
+{'text': 'CODA is a powerful and inspiring\nstory, which broke barriers', 'start': 261.76, 'duration': 4.205}
+{'text': 'with its predominantly deaf\ncast, including Troy Kotsur,', 'start': 265.998, 'duration': 4.104}
+{'text': 'who became the first deaf male\nactor to be nominated for an\nOscar.', 'start': 270.136, 'duration': 4.37}
+{'text': "Now let's take a quick look\nat these Apple Original Films", 'start': 274.54, 'duration': 3.37}
+{'text': 'and some more incredible ones\ncoming soon.', 'start': 277.944, 'duration': 3.136}
+{'text': '[soft music]', 'start': 282.081, 'duration': 4.738}
+{'text': 'I have an idea.', 'start': 286.852, 'duration': 1.769}
+{'text': 'Just take a deep breath.', 'start': 291.624, 'duration': 1.201}
+{'text': '[exhales]', 'start': 292.858, 'duration': 0.902}
+{'text': 'Are you ready?', 'start': 295.328, 'duration': 1.535}
+{'text': '[screams]', 'start': 297.763, 'duration': 1.735}
+{'text': '[♪ ♪]', 'start': 299.531, 'duration': 5.507}
+{'text': '[♪ ♪]', 'start': 316.782, 'duration': 4.705}
+{'text': 'Is this a dagger\nwhich I see before me?', 'start': 321.52, 'duration': 3.003}
+{'text': 'The handle toward my hand?', 'start': 324.556, 'duration': 2.27}
+{'text': 'person: How many others are out\nthere?', 'start': 328.427, 'duration': 1.602}
+{'text': "person: Buckle up,\nit's gonna be quite a ride.", 'start': 331.897, 'duration': 1.335}
+{'text': '[gasps]', 'start': 333.265, 'duration': 1.102}
+{'text': "I'm the ghost of Christmas\npresent.", 'start': 335.501, 'duration': 1.435}
+{'text': 'You mean, like A Christmas\nCarol?', 'start': 336.969, 'duration': 1.902}
+{'text': 'No.', 'start': 338.904, 'duration': 1.602}
+{'text': 'Well, yes.', 'start': 340.539, 'duration': 1.302}
+{'text': 'person: I found an actual lucky\npenny.', 'start': 346.512, 'duration': 3.07}
+{'text': 'And what did I do?\nI lost it.', 'start': 349.615, 'duration': 1.735}
+{'text': 'cat: Just how unlucky are you?', 'start': 351.384, 'duration': 2.602}
+{'text': 'person: You just talked.', 'start': 354.019, 'duration': 2.236}
+{'text': 'person: The greater the spy,', 'start': 359.091, 'duration': 2.77}
+{'text': 'the bigger the lie.', 'start': 361.894, 'duration': 2.303}
+{'text': '[♪ ♪]', 'start': 373.873, 'duration': 7.04}
+{'text': '[♪ ♪]', 'start': 387.086, 'duration': 6.974}
+{'text': 'person: So welcome to, welcome\nto, welcome to, welcome to,\nwelcome to...', 'start': 394.093, 'duration': 3.604}
+{'text': 'person: The future.', 'start': 397.73, 'duration': 1.735}
+{'text': "Tim: We hope you'll love these\namazing movies as much as we do.", 'start': 405.37, 'duration': 3.838}
+{'text': 'They bring drama, suspense,\nand joy to our lives.', 'start': 409.241, 'duration': 4.337}
+{'text': "And with Apple TV+, we're always\nlooking for new ways to bring\nmore of this to you.", 'start': 413.612, 'duration': 5.806}
+{'text': "And with that in mind,\nwe've got something exciting to\nshare.", 'start': 419.452, 'duration': 4.237}
+{'text': '[crowd cheering]', 'start': 424.624, 'duration': 2.068}
+{'text': '[dramatic music]', 'start': 426.725, 'duration': 6.007}
+{'text': '[♪ ♪]', 'start': 440.606, 'duration': 7.041}
+{'text': 'announcer: Right centerfield!', 'start': 456.154, 'duration': 2.57}
+{'text': 'It is--whoa!', 'start': 458.758, 'duration': 2.369}
+{'text': 'Are you kidding me?', 'start': 461.16, 'duration': 1.635}
+{'text': 'Tim: Introducing Friday Night\nBaseball on Apple TV+.', 'start': 470.035, 'duration': 3.838}
+{'text': 'Tune in on Friday nights for two\ngames you can only see on Apple\nTV+.', 'start': 473.906, 'duration': 5.371}
+{'text': "We're really excited about this.", 'start': 479.311, 'duration': 2.002}
+{'text': 'This is going to be the best way\nto watch baseball on your\niPhone,', 'start': 481.347, 'duration': 3.636}
+{'text': 'iPad, Mac, and anywhere\nthat Apple TV+ is available.', 'start': 485.017, 'duration': 4.705}
+{'text': "And now let's turn to our\nproducts, starting with iPhone.", 'start': 489.755, 'duration': 4.772}
+{'text': 'iPhone 13 is incredible.', 'start': 495.761, 'duration': 2.202}
+{'text': 'It features\nour powerful A15 Bionic chip.', 'start': 497.997, 'duration': 3.403}
+{'text': 'And together with iOS 15,', 'start': 501.433, 'duration': 2.203}
+{'text': "the world's most advanced\nmobile operating system,", 'start': 503.669, 'duration': 2.936}
+{'text': 'iPhone 13 delivers experiences\nlike Cinematic mode, ProRes\nvideo,', 'start': 506.639, 'duration': 5.338}
+{'text': 'provides all-day battery life,', 'start': 512.01, 'duration': 2.336}
+{'text': 'and powers stunning graphics\non the immersive Super Retina\nXDR display.', 'start': 514.38, 'duration': 5.372}
+{'text': 'In addition to all\nof its great capabilities,', 'start': 519.785, 'duration': 2.569}
+{'text': 'people also love the design of\niPhone 13', 'start': 522.387, 'duration': 3.537}
+{'text': 'and its wide range of beautiful\ncolors.', 'start': 525.958, 'duration': 2.702}
+{'text': "So today we're introducing\ntwo gorgeous new finishes.", 'start': 528.694, 'duration': 4.972}
+{'text': '[hip-hop music]', 'start': 533.699, 'duration': 5.739}
+{'text': '[♪ ♪]', 'start': 549.748, 'duration': 7.008}
+{'text': 'iPhone 13 looks stunning\nin this bold new green', 'start': 564.93, 'duration': 3.703}
+{'text': 'with its precision milled back\nglass', 'start': 568.667, 'duration': 2.536}
+{'text': 'and color-matched aluminum\nedges.', 'start': 571.236, 'duration': 2.603}
+{'text': 'And iPhone 13 Pro,\nin a sophisticated new Alpine\nGreen,', 'start': 573.873, 'duration': 4.705}
+{'text': "joins the most Pro lineup\nwe've ever created!", 'start': 578.611, 'duration': 4.971}
+{'text': 'You can pre-order these new\nmodels starting this Friday,', 'start': 583.615, 'duration': 3.604}
+{'text': 'and they will be available on\nMarch 18.', 'start': 587.252, 'duration': 3.237}
+{'text': "Now let's talk about Apple\nsilicon.", 'start': 590.522, 'duration': 2.87}
+{'text': 'The development of Apple silicon\nwas inspired by iPhone', 'start': 593.425, 'duration': 3.47}
+{'text': 'and has delivered cutting-edge\nperformance and capabilities for\nmany years.', 'start': 596.928, 'duration': 4.539}
+{'text': 'It continues to have a\nphenomenal impact on our\nproducts and the industry.', 'start': 601.5, 'duration': 5.806}
+{'text': 'In addition to industry-leading\nperformance-per-watt,', 'start': 607.339, 'duration': 3.069}
+{'text': 'Apple silicon delivers\nmany other advancements.', 'start': 610.442, 'duration': 3.37}
+{'text': 'The custom-built Image Signal\nProcessor drives our dynamic\ncamera experiences.', 'start': 613.845, 'duration': 6.106}
+{'text': 'The Neural Engine unlocks\nbreakthrough machine learning\ncapabilities.', 'start': 619.985, 'duration': 5.506}
+{'text': 'The secure enclave protects the\nbiometric information used in\nFace ID and Touch ID.', 'start': 625.524, 'duration': 6.173}
+{'text': 'These are just a few of the\ninnovations enabled by Apple\nsilicon', 'start': 632.932, 'duration': 3.369}
+{'text': 'that makes our products\nsuch a huge hit with customers.', 'start': 636.335, 'duration': 4.237}
+{'text': "And today we're bringing our\nextraordinary A15 Bionic chip to\nanother iPhone.", 'start': 640.606, 'duration': 6.006}
+{'text': '[upbeat music]', 'start': 646.645, 'duration': 2.703}
+{'text': 'Uno, dos, tres, quatro.', 'start': 649.381, 'duration': 1.769}
+{'text': 'Tim: The new iPhone SE!', 'start': 656.388, 'duration': 2.903}
+{'text': 'From the very beginning,\nwe designed iPhone SE to include', 'start': 659.325, 'duration': 3.703}
+{'text': 'some of our most advanced\nfeatures and technologies,', 'start': 663.062, 'duration': 3.436}
+{'text': 'while delivering the iPhone\nexperience at an incredible\nprice.', 'start': 666.531, 'duration': 4.906}
+{'text': 'This is important for our\nexisting users who want a\nsmaller iPhone', 'start': 671.47, 'duration': 4.371}
+{'text': 'and a great value.', 'start': 675.875, 'duration': 1.834}
+{'text': "It's also been an incredibly\npopular model with new iPhone\nusers.", 'start': 677.743, 'duration': 4.571}
+{'text': "And we're continuing\nto add new users to iPhone", 'start': 682.348, 'duration': 3.202}
+{'text': 'at a faster pace.', 'start': 685.584, 'duration': 1.835}
+{'text': "In fact, this past fall, we've\nadded more new users to the\niPhone 13 lineup", 'start': 687.452, 'duration': 5.839}
+{'text': 'than in each\nof the previous five launches.', 'start': 693.325, 'duration': 2.602}
+{'text': "And we're excited for the iPhone\nSE to build on this momentum.", 'start': 695.961, 'duration': 4.738}
+{'text': "Now here's Francesca to tell you\nmore.", 'start': 700.732, 'duration': 3.404}
+{'text': '[exciting electronic music]', 'start': 704.169, 'duration': 5.973}
+{'text': 'Francesca:\nAt the heart of iPhone SE is A15\nBionic,', 'start': 712.912, 'duration': 3.602}
+{'text': 'the same chip as in iPhone 13.', 'start': 716.548, 'duration': 2.67}
+{'text': 'Bringing this level of\nperformance to our most\naffordable phone', 'start': 719.251, 'duration': 3.77}
+{'text': 'is something only Apple can do.', 'start': 723.055, 'duration': 2.669}
+{'text': 'A15 Bionic makes\nnearly every experience better,', 'start': 725.757, 'duration': 3.871}
+{'text': 'from simple things like\nlaunching apps and scrolling\nthrough photos,', 'start': 729.661, 'duration': 3.57}
+{'text': 'to intense workloads like\nprocessing depth information on\nthe fly.', 'start': 733.265, 'duration': 4.337}
+{'text': 'A15 Bionic packs a powerful\n6-core CPU to handle demanding\ntasks', 'start': 737.636, 'duration': 5.673}
+{'text': 'smoothly and efficiently.', 'start': 743.342, 'duration': 2.002}
+{'text': "It's up to 1.8 times faster than\niPhone 8,", 'start': 745.377, 'duration': 3.069}
+{'text': 'and even faster compared to\nolder models.', 'start': 748.48, 'duration': 3.236}
+{'text': 'This CPU is faster than all\nthe competition at any price.', 'start': 751.75, 'duration': 5.405}
+{'text': 'The 4-core GPU is great\nfor graphics intensive use cases', 'start': 757.189, 'duration': 4.171}
+{'text': 'and delivers a monumental\nimprovement for people\nupgrading.', 'start': 761.393, 'duration': 4.037}
+{'text': "That means when you buckle up\nfor a race in Apple Arcade's\nnext big release,", 'start': 765.464, 'duration': 4.171}
+{'text': 'Gear.Club Stradale,', 'start': 769.668, 'duration': 1.468}
+{'text': "the realistic graphics make you\nfeel just like you're on the\nroads of Tuscany", 'start': 771.17, 'duration': 3.97}
+{'text': 'behind the wheel of your dream\ncar.', 'start': 775.173, 'duration': 2.804}
+{'text': 'Apps can take advantage\nof the 16-core Neural Engine,', 'start': 778.01, 'duration': 3.537}
+{'text': 'perfect for machine learning\ntasks', 'start': 781.58, 'duration': 1.868}
+{'text': 'and capable of 15.8 trillion\noperations per second,', 'start': 783.481, 'duration': 4.238}
+{'text': 'which is 26 times faster than\niPhone 8.', 'start': 787.752, 'duration': 4.005}
+{'text': "And if you're upgrading from a\nphone without a Neural Engine,", 'start': 791.79, 'duration': 2.936}
+{'text': 'it unlocks new ways to use your\niPhone that make your life\neasier,', 'start': 794.76, 'duration': 4.371}
+{'text': 'like Live Text.', 'start': 799.164, 'duration': 1.669}
+{'text': 'Point your camera at text,\nand with a tap you can copy it,', 'start': 800.866, 'duration': 3.403}
+{'text': 'translate it,\nmake a call, or send an email.', 'start': 804.302, 'duration': 3.271}
+{'text': "iPhone SE isn't just powerful.\nIt's beautiful, too.", 'start': 807.606, 'duration': 4.071}
+{'text': 'It features our iconic glass and\naluminum design in three\nfantastic colors,', 'start': 811.71, 'duration': 5.806}
+{'text': 'Midnight, Starlight,\nand (PRODUCT)Red.', 'start': 817.549, 'duration': 3.838}
+{'text': 'It has a 4.7" Retina HD display\nwith incredible color accuracy.', 'start': 821.42, 'duration': 5.872}
+{'text': 'The display is even more\nprotected by the durable design,', 'start': 827.326, 'duration': 3.403}
+{'text': 'which now includes the toughest\nglass in a smartphone', 'start': 830.762, 'duration': 3.27}
+{'text': 'on both the front and back.', 'start': 834.065, 'duration': 3.17}
+{'text': 'This is the same glass as the\nback of iPhone 13 and iPhone 13\nPro.', 'start': 837.269, 'duration': 5.005}
+{'text': 'And with IP67 water and dust\nresistance,', 'start': 842.307, 'duration': 3.17}
+{'text': 'iPhone SE is designed to last.', 'start': 845.51, 'duration': 2.57}
+{'text': 'iPhone SE has the Home Button\nwith Touch ID', 'start': 848.113, 'duration': 3.437}
+{'text': 'for a secure, private,\nand easy way to unlock your\niPhone,', 'start': 851.583, 'duration': 4.071}
+{'text': 'fill in passcodes,\nand make purchases with Apple\nPay.', 'start': 855.687, 'duration': 3.904}
+{'text': 'iPhone SE has even better\nbattery life', 'start': 859.624, 'duration': 3.003}
+{'text': 'with the efficiency of A15\nBionic, integration with iOS,', 'start': 862.66, 'duration': 4.438}
+{'text': 'our latest battery chemistry,\nand internal design updates.', 'start': 867.132, 'duration': 4.371}
+{'text': "And we're bringing 5G\nto our most affordable iPhone,", 'start': 871.537, 'duration': 4.204}
+{'text': 'so iPhone SE is can take\nadvantage of the latest\ngeneration of technology.', 'start': 875.774, 'duration': 4.938}
+{'text': 'You get super fast downloads and\nuploads, lower latency,', 'start': 880.746, 'duration': 4.304}
+{'text': 'and better experiences in more\nplaces.', 'start': 885.083, 'duration': 2.903}
+{'text': 'Like seeing family with\nhigher-quality HD FaceTime\ncalls,', 'start': 888.019, 'duration': 3.77}
+{'text': "even when you aren't on Wi-Fi,", 'start': 891.823, 'duration': 2.035}
+{'text': 'or enjoying your favorite movies\nwith friends using SharePlay,', 'start': 893.892, 'duration': 3.67}
+{'text': 'or playing multi-player online\ngames.', 'start': 897.596, 'duration': 3.837}
+{'text': 'iPhone SE also has some\nof our latest camera\ninnovations.', 'start': 901.466, 'duration': 3.671}
+{'text': 'The 12 megapixel camera and A15\nBionic create a new camera\nsystem', 'start': 905.17, 'duration': 5.072}
+{'text': 'that enables powerful\ncomputational photography.', 'start': 910.275, 'duration': 3.871}
+{'text': 'Deep Fusion optimizes for\ntexture and detail in every part\nof the photo.', 'start': 914.179, 'duration': 5.539}
+{'text': 'Smart HDR 4 applies\nindividual adjustments for\ncolor,', 'start': 919.751, 'duration': 4.071}
+{'text': 'contrast, and noise\nto subjects and the background.', 'start': 923.855, 'duration': 4.472}
+{'text': 'Photographic Styles\nbrings your preferred style', 'start': 928.36, 'duration': 2.903}
+{'text': 'automatically to the image\npipeline', 'start': 931.296, 'duration': 2.036}
+{'text': 'during capture,\nwhile preserving skin tones.', 'start': 933.365, 'duration': 3.57}
+{'text': 'The ISP in A15 Bionic\nimproves video quality', 'start': 936.968, 'duration': 3.871}
+{'text': 'for truer skin tones and reduced\nnoise, especially in lower\nlight.', 'start': 940.872, 'duration': 5.305}
+{'text': 'iPhone SE comes with all\nthe incredible benefits of iOS\n15,', 'start': 946.211, 'duration': 4.371}
+{'text': 'including new features like\nFocus to help reduce distraction\nto be in the moment', 'start': 950.615, 'duration': 5.439}
+{'text': 'and an all-new Maps experience.', 'start': 956.088, 'duration': 2.802}
+{'text': "And you'll get intelligent\ncapabilities that protect your\nprivacy", 'start': 958.924, 'duration': 3.703}
+{'text': 'like on-device Siri\nand on-device dictation', 'start': 962.66, 'duration': 3.037}
+{'text': "that just weren't possible\nwith older phones.", 'start': 965.73, 'duration': 2.67}
+{'text': 'IPhone SE will get the latest\niOS updates for years to come.', 'start': 968.433, 'duration': 4.672}
+{'text': 'iPhone SE continues our\ncommitment to minimize impact on\nthe environment.', 'start': 973.138, 'duration': 4.871}
+{'text': 'Like we did with iPhone 13,', 'start': 978.042, 'duration': 2.203}
+{'text': 'we eliminated the outer plastic\nwrap from our packaging.', 'start': 980.279, 'duration': 3.135}
+{'text': 'And we use recycled materials\nin the design of iPhone SE,', 'start': 983.448, 'duration': 3.738}
+{'text': 'like in the Taptic Engine, where\nwe use 100% recycled rare earth\nelements', 'start': 987.219, 'duration': 5.071}
+{'text': 'and 100% recycled tungsten.', 'start': 992.323, 'duration': 2.87}
+{'text': 'iPhone SE is a fantastic new\niPhone', 'start': 995.226, 'duration': 3.671}
+{'text': 'that brings the performance of\nA15 Bionic, the speed of 5G,', 'start': 998.931, 'duration': 4.304}
+{'text': 'better durability, better\nbattery life,', 'start': 1003.268, 'duration': 2.603}
+{'text': 'and advanced new camera\ncapabilities.', 'start': 1005.904, 'duration': 2.969}
+{'text': 'And it starts at just $429.', 'start': 1008.906, 'duration': 3.638}
+{'text': 'Pre-orders start this Friday.', 'start': 1012.577, 'duration': 1.802}
+{'text': 'And iPhone SE will be available\non March 18.', 'start': 1014.412, 'duration': 3.303}
+{'text': 'Now, back to Tim.', 'start': 1017.749, 'duration': 1.435}
+{'text': '[exciting music]', 'start': 1019.217, 'duration': 1.702}
+{'text': 'Tim: The new iPhone SE brings\nthe advanced features', 'start': 1020.953, 'duration': 3.336}
+{'text': 'and exceptional performance of\nA15 to our most affordable\niPhone.', 'start': 1024.323, 'duration': 5.172}
+{'text': "It's going to be great\nfor existing iPhone users", 'start': 1029.528, 'duration': 2.736}
+{'text': 'who want a highly capable\nand compact iPhone and for new\nusers', 'start': 1032.297, 'duration': 4.638}
+{'text': 'who want to experience iPhone\nfor the first time.', 'start': 1036.968, 'duration': 3.971}
+{'text': 'Apple silicon is a huge part\nof the success', 'start': 1040.973, 'duration': 2.969}
+{'text': "of another remarkable product,\nand that's iPad.", 'start': 1043.976, 'duration': 4.437}
+{'text': 'The unmatched performance\nand efficiency of Apple silicon', 'start': 1048.446, 'duration': 3.437}
+{'text': "enables iPad's magical\nexperience,", 'start': 1051.916, 'duration': 3.404}
+{'text': 'from its versatility and\nportability,', 'start': 1055.353, 'duration': 2.67}
+{'text': 'to its exceptionally long\nbattery life.', 'start': 1058.056, 'duration': 2.903}
+{'text': 'It makes iPad the most powerful\ndevice of its kind', 'start': 1060.993, 'duration': 3.536}
+{'text': 'and even faster\nthan the vast majority of PC\nnotebooks.', 'start': 1064.563, 'duration': 4.003}
+{'text': 'We have a fantastic iPad lineup,', 'start': 1068.6, 'duration': 2.569}
+{'text': "and today I'm excited\nto talk about iPad Air.", 'start': 1071.203, 'duration': 4.27}
+{'text': 'We love iPad Air for being\nincredibly thin, light, and\npowerful.', 'start': 1075.507, 'duration': 5.339}
+{'text': "And now we're taking its\nperformance to the next level.", 'start': 1080.879, 'duration': 4.104}
+{'text': '[dramatic music]', 'start': 1085.016, 'duration': 6.007}
+{'text': 'This is the new,\neven more amazing iPad Air.', 'start': 1103.101, 'duration': 3.771}
+{'text': "And to tell you all about it,\nhere's Angellina.", 'start': 1106.905, 'duration': 3.971}
+{'text': '[dramatic music]', 'start': 1110.909, 'duration': 6.04}
+{'text': 'Angellina: The incredibly\npopular design of iPad Air', 'start': 1118.349, 'duration': 3.304}
+{'text': 'is super-charged\nwith the power of Apple silicon,', 'start': 1121.686, 'duration': 3.37}
+{'text': "so let's jump right in\nand talk about performance.", 'start': 1125.089, 'duration': 3.37}
+{'text': "Whether you're a college student\ntaking elaborate notes,", 'start': 1128.493, 'duration': 3.403}
+{'text': 'a content creator\nworking on your latest project,', 'start': 1131.93, 'duration': 3.37}
+{'text': 'or a gamer playing the hottest\ntitles,', 'start': 1135.333, 'duration': 2.77}
+{'text': 'great performance is a key\nreason users choose iPad Air.', 'start': 1138.136, 'duration': 4.471}
+{'text': 'So the new Air takes\na massive leap in performance,', 'start': 1142.64, 'duration': 3.737}
+{'text': "because we're bringing\nthe breakthrough M1 Chip to iPad\nAir.", 'start': 1146.411, 'duration': 5.105}
+{'text': "That's right, this is the same\nM1 chip that we brought to iPad\nPro.", 'start': 1151.55, 'duration': 5.772}
+{'text': 'The 8-core design of the CPU\ndelivers up to 60% faster\nperformance', 'start': 1157.355, 'duration': 5.573}
+{'text': 'over the A14 in\nthe previous generation of iPad\nAir.', 'start': 1162.961, 'duration': 4.003}
+{'text': "And M1's 8-core GPU delivers\namazing graphics performance,", 'start': 1166.998, 'duration': 4.504}
+{'text': 'which is up to twice as fast.', 'start': 1171.536, 'duration': 2.235}
+{'text': 'In fact, M1 in the new iPad Air', 'start': 1173.805, 'duration': 3.637}
+{'text': 'makes it faster\nthan the fastest competitive\ntablet.', 'start': 1177.475, 'duration': 4.338}
+{'text': 'And the new Air\nis also up to 2 times faster', 'start': 1181.846, 'duration': 3.27}
+{'text': 'than the best selling Windows\nlaptop in its price range,', 'start': 1185.149, 'duration': 3.904}
+{'text': 'a device that is 3 times thicker\nand 4 times heavier than iPad\nAir.', 'start': 1189.087, 'duration': 5.739}
+{'text': 'So for users doing things like', 'start': 1195.493, 'duration': 1.902}
+{'text': 'drawing a filter for a social\nmedia post with Procreate,', 'start': 1197.428, 'duration': 3.505}
+{'text': "or designing the ultimate kid's\nbedroom in SketchUP,", 'start': 1200.966, 'duration': 3.27}
+{'text': 'the new Air will fly right\nthrough it.', 'start': 1204.269, 'duration': 3.703}
+{'text': 'And with M1, the new Air becomes\na mobile gaming powerhouse.', 'start': 1208.005, 'duration': 5.473}
+{'text': 'And machine learning workflows\nare enhanced', 'start': 1213.512, 'duration': 2.969}
+{'text': 'by the incredible 16-core Neural\nEngine,', 'start': 1216.515, 'duration': 3.903}
+{'text': 'enabling powerful\nand intuitive experiences.', 'start': 1220.451, 'duration': 4.572}
+{'text': 'Like using Adobe Lightroom\nto intelligently select the sky', 'start': 1225.056, 'duration': 4.372}
+{'text': 'from the foreground with just a\ntap so you can edit seamlessly.', 'start': 1229.461, 'duration': 5.071}
+{'text': 'And these experiences really\ncome to life', 'start': 1234.565, 'duration': 2.904}
+{'text': "on the Air's gorgeous\nLiquid Retina display", 'start': 1237.502, 'duration': 3.237}
+{'text': 'with its P3 wide color, True\nTone,', 'start': 1240.772, 'duration': 3.57}
+{'text': '500 nits of brightness,\nand anti-reflective coating.', 'start': 1244.376, 'duration': 4.17}
+{'text': 'Another big update for iPad Air\nis the front camera,', 'start': 1249.514, 'duration': 4.138}
+{'text': 'because it will now feature\na 12 megapixel Ultra Wide\ncamera,', 'start': 1253.685, 'duration': 5.372}
+{'text': 'which means it supports Center\nStage!', 'start': 1259.091, 'duration': 3.136}
+{'text': 'This has been hugely popular\nfor connecting with friends,', 'start': 1262.26, 'duration': 4.171}
+{'text': 'colleagues, and loved ones.', 'start': 1266.464, 'duration': 1.902}
+{'text': 'And this means that now,\nall iPad models feature Center\nStage.', 'start': 1268.4, 'duration': 5.939}
+{'text': 'Next, with its ultra portable\ndesign,', 'start': 1274.372, 'duration': 3.637}
+{'text': "we know users need fast wireless\nconnectivity when they're on the\ngo.", 'start': 1278.042, 'duration': 5.939}
+{'text': "That's why we're bringing\nultra-fast 5G to iPad Air.", 'start': 1284.015, 'duration': 4.805}
+{'text': "Perfect for when you're doing\nthings like using SharePlay", 'start': 1288.854, 'duration': 3.369}
+{'text': 'to watch movies with your\nfriends wherever you are.', 'start': 1292.257, 'duration': 3.237}
+{'text': 'And to support fast connection\nto drives, docks, and cameras,', 'start': 1295.527, 'duration': 4.504}
+{'text': "we're increasing the performance\nof the USB-C port.", 'start': 1300.065, 'duration': 4.037}
+{'text': 'It is now twice as fast,', 'start': 1304.135, 'duration': 2.403}
+{'text': 'so transferring large photos\nor videos is even quicker.', 'start': 1306.571, 'duration': 4.404}
+{'text': 'And iPad Air is compatible\nwith amazing accessories', 'start': 1311.008, 'duration': 4.339}
+{'text': 'that make it even more\nversatile.', 'start': 1315.38, 'duration': 2.302}
+{'text': 'Like the Smart Keyboard Folio\nand Magic Keyboard,', 'start': 1317.715, 'duration': 3.905}
+{'text': 'which delivers a fantastic\ntrackpad and typing experience.', 'start': 1321.653, 'duration': 4.738}
+{'text': 'iPad Air also supports\nApple Pencil 2nd generation,', 'start': 1326.424, 'duration': 4.471}
+{'text': 'which users absolutely love\nfor drawing and taking notes.', 'start': 1330.929, 'duration': 4.804}
+{'text': 'And of course, driving the\nentire iPad experience is\niPadOS.', 'start': 1335.767, 'duration': 5.872}
+{'text': 'iPadOS 15 is packed\nwith powerful new features', 'start': 1341.673, 'duration': 5.272}
+{'text': 'like enhanced multi-tasking,', 'start': 1346.978, 'duration': 2.369}
+{'text': 'Quick Note, and SharePlay,\nwhich make iPad even more\ncapable.', 'start': 1349.381, 'duration': 4.77}
+{'text': 'And with the new version\nof Swift Playgrounds,', 'start': 1354.185, 'duration': 3.637}
+{'text': 'users can build and submit apps\nto the App Store right on iPad.', 'start': 1357.855, 'duration': 5.974}
+{'text': 'A new release of iMovie is\nperfect for aspiring filmmakers', 'start': 1363.862, 'duration': 4.905}
+{'text': 'working on their latest\nmasterpiece', 'start': 1368.8, 'duration': 3.002}
+{'text': 'or for users who are just\ngetting started.', 'start': 1371.836, 'duration': 3.804}
+{'text': 'The new storyboards feature\nhelps users create finished\nvideos', 'start': 1375.673, 'duration': 4.572}
+{'text': 'by using curated shot lists,\ntransitions, and music for a\npolished result.', 'start': 1380.278, 'duration': 6.073}
+{'text': "It's a great new release\nthat will be available next\nmonth.", 'start': 1386.384, 'duration': 3.77}
+{'text': 'And we continue our commitment\nto the environment.', 'start': 1391.155, 'duration': 3.671}
+{'text': 'The new Air has a number of\ncomponents with 100% recycled\nmaterials,', 'start': 1394.859, 'duration': 5.739}
+{'text': 'like the aluminum in the\nenclosure,', 'start': 1400.632, 'duration': 2.135}
+{'text': 'tin in the solder of the main\nlogic board,', 'start': 1402.801, 'duration': 3.002}
+{'text': 'and rare earth elements in the\nenclosure and audio magnets.', 'start': 1405.837, 'duration': 4.671}
+{'text': "We're really excited about\nthe new iPad Air.", 'start': 1410.541, 'duration': 2.836}
+{'text': "Let's take a look.", 'start': 1413.411, 'duration': 2.102}
+{'text': '[moody upbeat music]', 'start': 1415.546, 'duration': 6.007}
+{'text': '[♪ ♪]', 'start': 1431.563, 'duration': 6.974}
+{'text': '[♪ ♪]', 'start': 1448.58, 'duration': 7.007}
+{'text': '[♪ ♪]', 'start': 1465.597, 'duration': 6.974}
+{'text': '[♪ ♪]', 'start': 1482.614, 'duration': 7.007}
+{'text': 'So this is the new iPad Air.', 'start': 1500.164, 'duration': 3.504}
+{'text': 'And it comes in a gorgeous array\nof colors,', 'start': 1503.701, 'duration': 2.87}
+{'text': 'Space Gray, Starlight,', 'start': 1506.604, 'duration': 3.003}
+{'text': 'Pink, Purple, and a stunning new\nBlue.', 'start': 1509.64, 'duration': 4.872}
+{'text': 'It will be available starting\nat the same great price of $599.', 'start': 1514.546, 'duration': 5.505}
+{'text': 'This is an incredible price\nfor such a powerful device.', 'start': 1520.084, 'duration': 5.372}
+{'text': 'It comes in both 64 and 256\ngigabyte configurations', 'start': 1525.49, 'duration': 5.272}
+{'text': 'and it will be available in\nboth Wi-Fi and cellular models.', 'start': 1530.795, 'duration': 4.304}
+{'text': 'You can begin ordering Friday', 'start': 1535.133, 'duration': 1.801}
+{'text': 'and it will be available March\n18.', 'start': 1536.967, 'duration': 2.37}
+{'text': 'With the supercharged\nperformance of M1,', 'start': 1540.204, 'duration': 3.103}
+{'text': 'ultrafast 5G, and Center Stage,', 'start': 1543.341, 'duration': 2.903}
+{'text': "we think you're going to love\nthe new iPad Air.", 'start': 1546.277, 'duration': 4.438}
+{'text': 'Back to Tim.', 'start': 1550.749, 'duration': 1.368}
+{'text': '[hip-hop music]', 'start': 1552.15, 'duration': 1.802}
+{'text': 'Tim: With the addition of M1,\niPad Air is now more powerful,', 'start': 1553.985, 'duration': 4.004}
+{'text': 'more capable,\nand simply more fun than ever.', 'start': 1558.022, 'duration': 3.237}
+{'text': "Next, let's talk about the Mac.", 'start': 1562.159, 'duration': 3.871}
+{'text': 'Apple silicon has transformed\nthe Mac over this past year.', 'start': 1566.064, 'duration': 4.171}
+{'text': 'Its incredible performance,\ncustom technologies,', 'start': 1570.268, 'duration': 3.203}
+{'text': 'and cutting-edge power\nefficiency have ushered in a new\nera for the Mac.', 'start': 1573.505, 'duration': 5.772}
+{'text': "We've transitioned nearly every\nproduct in the Mac lineup to\nApple silicon.", 'start': 1579.31, 'duration': 5.038}
+{'text': 'And each of these products\nhas blown away users', 'start': 1584.382, 'duration': 3.37}
+{'text': 'and shocked the PC industry.', 'start': 1587.785, 'duration': 2.769}
+{'text': 'When we introduced the MacBook\nPro and MacBook Air with M1,', 'start': 1590.588, 'duration': 3.87}
+{'text': 'our customers no longer had to\nchoose', 'start': 1594.492, 'duration': 2.135}
+{'text': 'between incredible performance\nand amazing battery life.', 'start': 1596.66, 'duration': 4.205}
+{'text': 'They could have it all.', 'start': 1600.898, 'duration': 2.102}
+{'text': 'And Apple silicon has enabled us\nto design products', 'start': 1603.034, 'duration': 3.236}
+{'text': 'we never could have imagined\nbefore,', 'start': 1606.304, 'duration': 2.135}
+{'text': 'like the remarkably thin\nand powerful new iMac', 'start': 1608.473, 'duration': 3.837}
+{'text': 'made possible by M1.', 'start': 1612.343, 'duration': 3.07}
+{'text': 'And the newest MacBook Pro with\nM1 Pro and M1 Max has completely\nredefined', 'start': 1615.446, 'duration': 6.039}
+{'text': 'what pros expect from a\nnotebook.', 'start': 1621.519, 'duration': 2.836}
+{'text': 'It simply has no equal.', 'start': 1624.388, 'duration': 3.403}
+{'text': 'Customers are absolutely loving\nthese systems.', 'start': 1627.825, 'duration': 3.837}
+{'text': 'In fact, every quarter since we\nstarted shipping M1-based Macs', 'start': 1631.696, 'duration': 4.371}
+{'text': 'has been record-breaking', 'start': 1636.1, 'duration': 1.735}
+{'text': "and we've outpaced the industry\ngrowth during this time.", 'start': 1637.869, 'duration': 4.17}
+{'text': "And we're not stopping there.", 'start': 1642.073, 'duration': 2.002}
+{'text': "To tell you how we're going to\ntake Mac even further, here's\nJohn.", 'start': 1644.108, 'duration': 4.138}
+{'text': '[exciting electronic music]', 'start': 1648.279, 'duration': 6.006}
+{'text': 'John: Apple silicon has had\na profound impact on the Mac.', 'start': 1655.119, 'duration': 3.37}
+{'text': 'Every chip in the M1 family\nhas been groundbreaking,', 'start': 1658.523, 'duration': 3.47}
+{'text': "allowing us to make the world's\nbest personal computers for our\nusers.", 'start': 1662.027, 'duration': 4.237}
+{'text': "And now we're going to take\nthe next giant leap.", 'start': 1666.297, 'duration': 2.269}
+{'text': "Because today we're bringing\nApple silicon to users", 'start': 1668.599, 'duration': 3.304}
+{'text': 'who need even more extreme\nlevels of performance', 'start': 1671.936, 'duration': 2.602}
+{'text': 'to unleash their creativity.', 'start': 1674.571, 'duration': 2.003}
+{'text': "We're adding one last chip to\nthe M1 family, and it's gonna\nblow your mind.", 'start': 1676.608, 'duration': 4.404}
+{'text': 'Here it is.', 'start': 1681.046, 'duration': 0.9}
+{'text': '[dramatic electronic music]', 'start': 1681.979, 'duration': 6.007}
+{'text': 'Introducing M1 Ultra.', 'start': 1689.387, 'duration': 2.135}
+{'text': 'It is a monster of a chip.', 'start': 1691.555, 'duration': 1.735}
+{'text': 'And it brings breathtaking\nlevels of performance to the Mac\ndesktop.', 'start': 1693.324, 'duration': 3.937}
+{'text': 'So let me hand it over to Johny\nto tell you more', 'start': 1697.294, 'duration': 2.303}
+{'text': 'about its incredible\narchitecture.', 'start': 1699.63, 'duration': 2.302}
+{'text': '[exciting electronic music]', 'start': 1701.965, 'duration': 5.974}
+{'text': 'Johny: M1 Ultra is the next\nbreakthrough for Apple silicon.', 'start': 1709.841, 'duration': 3.569}
+{'text': "So far, we've scaled Apple\nsilicon for the Mac from M1 to\nM1 Pro to M1 Max.", 'start': 1713.444, 'duration': 5.406}
+{'text': "And with each chip,\nwe've extended the architecture", 'start': 1718.883, 'duration': 2.269}
+{'text': 'to deliver phenomenal\nperformance,', 'start': 1721.185, 'duration': 2.069}
+{'text': 'while maintaining\nremarkable power efficiency,', 'start': 1723.288, 'duration': 2.769}
+{'text': 'and scaling\nthe unified memory architecture.', 'start': 1726.09, 'duration': 2.837}
+{'text': 'This approach has also provided\na consistent developer\nprogramming model', 'start': 1728.96, 'duration': 3.703}
+{'text': 'across the M1 family.', 'start': 1732.696, 'duration': 2.703}
+{'text': 'And now we want to take Apple\nsilicon even further', 'start': 1735.432, 'duration': 2.67}
+{'text': 'to achieve more extreme levels\nof performance for the desktop.', 'start': 1738.136, 'duration': 3.637}
+{'text': 'The challenge is that there are\nphysical limitations', 'start': 1741.806, 'duration': 2.469}
+{'text': 'in creating a larger die than M1\nMax.', 'start': 1744.308, 'duration': 2.603}
+{'text': 'The leading approach is to use\ntwo chips and connect them via\nthe motherboard.', 'start': 1746.944, 'duration': 4.205}
+{'text': 'However, that approach\nhas significant tradeoffs,', 'start': 1751.182, 'duration': 2.502}
+{'text': 'including increased latency,', 'start': 1753.717, 'duration': 1.735}
+{'text': 'reduced bandwidth and much\nhigher power consumption.', 'start': 1755.486, 'duration': 3.637}
+{'text': 'This also burdens developers\nwith the need to change their\ncode', 'start': 1759.156, 'duration': 2.97}
+{'text': 'for this architecture.', 'start': 1762.159, 'duration': 2.403}
+{'text': 'So with M1 Ultra,\nwe did something truly\ngroundbreaking.', 'start': 1764.595, 'duration': 3.971}
+{'text': "And it actually starts with M1\nMax, the most powerful SoC we've\nbuilt to date.", 'start': 1768.6, 'duration': 4.437}
+{'text': 'With its high-performance CPU,\nmassive GPU,', 'start': 1773.071, 'duration': 3.836}
+{'text': 'and tremendous unified memory\nbandwidth, M1 Max is incredibly\ncapable,', 'start': 1776.941, 'duration': 5.539}
+{'text': 'and its amazing performance is\ndelivered', 'start': 1782.513, 'duration': 1.769}
+{'text': 'while maintaining\nindustry-leading power\nefficiency.', 'start': 1784.315, 'duration': 3.737}
+{'text': "Yet it's even more capable\nthan what we've shared.", 'start': 1788.085, 'duration': 3.337}
+{'text': 'You see, M1 Max has a secret.', 'start': 1791.456, 'duration': 2.302}
+{'text': "A hidden feature\nwe haven't talked about until\nnow.", 'start': 1793.791, 'duration': 3.203}
+{'text': 'It has a groundbreaking die to\ndie interconnect technology', 'start': 1797.028, 'duration': 3.903}
+{'text': 'that allows us to scale even\nfurther by building M1 Ultra\nfrom two M1 Max die,', 'start': 1800.965, 'duration': 4.905}
+{'text': 'which doubles performance.', 'start': 1805.903, 'duration': 2.002}
+{'text': 'And we connect the two die', 'start': 1807.938, 'duration': 1.235}
+{'text': 'with our innovative,\ncustom-built packaging\narchitecture.', 'start': 1809.206, 'duration': 3.637}
+{'text': 'This multi-die architecture is\nway ahead of anything else in\nthe industry,', 'start': 1812.91, 'duration': 4.137}
+{'text': 'and we call it UltraFusion.', 'start': 1817.08, 'duration': 2.971}
+{'text': 'The UltraFusion architecture\nuses a silicon interposer', 'start': 1820.084, 'duration': 3.104}
+{'text': 'that has twice the connection\ndensity of any technology\navailable.', 'start': 1823.221, 'duration': 4.737}
+{'text': 'It connects over 10,000 signals', 'start': 1827.992, 'duration': 2.202}
+{'text': 'and provides an enormous 2.5TB/s', 'start': 1830.228, 'duration': 3.203}
+{'text': 'of low latency, inter-processor\nbandwidth', 'start': 1833.464, 'duration': 2.169}
+{'text': 'between the two die\nusing very little power.', 'start': 1835.666, 'duration': 2.97}
+{'text': "That's more than 4 times the\nbandwidth", 'start': 1838.669, 'duration': 2.036}
+{'text': 'of the leading multi-chip\ninterconnect technology.', 'start': 1840.738, 'duration': 3.303}
+{'text': 'The result is an SoC\nwith blazing performance', 'start': 1844.074, 'duration': 2.603}
+{'text': 'due to low latency, massive\nbandwidth, and incredible power\nefficiency.', 'start': 1846.71, 'duration': 4.705}
+{'text': 'And thanks to the magic\nof the UltraFusion architecture,', 'start': 1851.449, 'duration': 3.002}
+{'text': 'it behaves like a single chip to\nsoftware', 'start': 1854.485, 'duration': 2.436}
+{'text': 'and preserves the benefits\nof the unified memory.', 'start': 1856.954, 'duration': 2.903}
+{'text': 'M1 Ultra has 114 billion\ntransistors.', 'start': 1859.89, 'duration': 3.103}
+{'text': "That's 7 times more than M1.", 'start': 1863.026, 'duration': 2.136}
+{'text': "It's the most ever\nin a personal computer chip.", 'start': 1865.196, 'duration': 2.936}
+{'text': 'And when you add it to the M1\nfamily,', 'start': 1868.165, 'duration': 2.103}
+{'text': 'you can see the huge difference\nin area between M1 and M1 Ultra.', 'start': 1870.301, 'duration': 4.538}
+{'text': 'This multi-die architecture also\nsupports a higher bandwidth\nmemory subsystem.', 'start': 1874.872, 'duration': 4.838}
+{'text': 'In fact, with two die,\nthe memory bandwidth', 'start': 1879.743, 'duration': 2.77}
+{'text': 'is increased to a massive\n800GB/s.', 'start': 1882.546, 'duration': 3.137}
+{'text': "That's more than 10 times\nthe latest PC desktop chip.", 'start': 1885.716, 'duration': 4.605}
+{'text': 'And doubling the memory channels\nalso means M1 Ultra supports', 'start': 1890.354, 'duration': 3.137}
+{'text': 'up to a staggering 128GB\nof unified memory', 'start': 1893.524, 'duration': 4.938}
+{'text': 'for enormous workloads.', 'start': 1898.495, 'duration': 1.669}
+{'text': 'M1 Ultra also offers an\nunbelievable amount of compute\nperformance.', 'start': 1900.197, 'duration': 3.937}
+{'text': 'It has a powerful 20-core CPU', 'start': 1904.168, 'duration': 2.068}
+{'text': 'with 16 high-performance cores', 'start': 1906.27, 'duration': 2.069}
+{'text': 'and 4 high-efficiency cores', 'start': 1908.372, 'duration': 1.968}
+{'text': 'to crush CPU intensive tasks.', 'start': 1910.374, 'duration': 2.67}
+{'text': 'It also features a huge 64-core\nGPU,', 'start': 1913.077, 'duration': 3.069}
+{'text': 'so it can speed through\nthe most intense graphic tasks.', 'start': 1916.18, 'duration': 3.237}
+{'text': "It's nearly 8 times M1.", 'start': 1919.45, 'duration': 2.903}
+{'text': 'M1 Ultra has 32 powerful\nNeural Engine cores', 'start': 1922.386, 'duration': 3.27}
+{'text': 'that can run up to 22 trillion\noperations per second', 'start': 1925.69, 'duration': 3.203}
+{'text': 'to accelerate the most\nformidable machine learning\ntasks.', 'start': 1928.926, 'duration': 3.336}
+{'text': 'And it has twice the\ncapabilities of the amazing\nMedia Engine in M1 Max', 'start': 1932.296, 'duration': 4.839}
+{'text': 'for unprecedented ProRes video\nencode and decode throughput.', 'start': 1937.168, 'duration': 3.904}
+{'text': 'Power efficiency affects\nthe entire system,', 'start': 1941.105, 'duration': 3.27}
+{'text': 'including enclosure design,\nthermals, acoustics, and,\nultimately, performance.', 'start': 1944.408, 'duration': 5.406}
+{'text': 'So the industry leading\nperformance per watt of M1 Max\nand M1 Ultra', 'start': 1949.847, 'duration': 3.77}
+{'text': 'is a huge advantage for a\ndesktop.', 'start': 1953.65, 'duration': 2.47}
+{'text': 'M1 Max delivers similar\nmultithreaded CPU performance', 'start': 1956.153, 'duration': 3.371}
+{'text': 'to the latest 10-core PC desktop\nchip', 'start': 1959.557, 'duration': 2.369}
+{'text': 'while using 65% less power.', 'start': 1961.959, 'duration': 3.704}
+{'text': 'And when we compare M1 Ultra', 'start': 1965.696, 'duration': 1.902}
+{'text': 'to the fastest 16-core\nPC desktop chip available,', 'start': 1967.631, 'duration': 3.471}
+{'text': 'it delivers 90% higher\nperformance in the same power\nenvelope.', 'start': 1971.135, 'duration': 4.237}
+{'text': "And M1 Ultra can deliver the PC\nchip's peak performance", 'start': 1975.406, 'duration': 3.503}
+{'text': 'while using an astounding 100W\nless power.', 'start': 1978.943, 'duration': 4.104}
+{'text': 'When we look at GPU performance\nand power,', 'start': 1983.08, 'duration': 2.069}
+{'text': 'M1 Max delivers similar\nperformance to one of the most\npopular GPUs', 'start': 1985.182, 'duration': 4.872}
+{'text': 'while using 1/3 the power.', 'start': 1990.087, 'duration': 2.703}
+{'text': 'And M1 Ultra delivers faster\nperformance than the highest-end\nGPU available', 'start': 1992.823, 'duration': 4.938}
+{'text': 'while using 200W less power.', 'start': 1997.794, 'duration': 2.803}
+{'text': 'M1 Ultra provides\nindustry-leading desktop class\nperformance', 'start': 2000.631, 'duration': 3.136}
+{'text': 'and power efficiency,', 'start': 2003.8, 'duration': 1.436}
+{'text': 'allowing us to deliver\nincredible performance', 'start': 2005.269, 'duration': 2.469}
+{'text': 'in a much smaller, more\nefficient design.', 'start': 2007.771, 'duration': 3.004}
+{'text': "So that's the groundbreaking M1\nUltra.", 'start': 2010.808, 'duration': 2.435}
+{'text': "It's the most powerful and\ncapable chip ever for a personal\ncomputer.", 'start': 2013.277, 'duration': 4.271}
+{'text': 'Now, back to John.', 'start': 2017.582, 'duration': 1.634}
+{'text': 'John: M1 Ultra takes Apple\nsilicon further than ever.', 'start': 2020.051, 'duration': 3.202}
+{'text': "It's another game-changing chip\nfor our pro users.", 'start': 2023.287, 'duration': 3.637}
+{'text': 'Now, one of the things that\nmakes Apple silicon so unique', 'start': 2026.958, 'duration': 3.036}
+{'text': 'is how tightly it integrates\nwith the operating system.', 'start': 2030.027, 'duration': 2.636}
+{'text': 'This integration enables macOS\nto scale with M1 Ultra,', 'start': 2032.696, 'duration': 4.538}
+{'text': "allowing it to automatically\nbenefit from M1 Ultra's immense\ncapabilities,", 'start': 2037.267, 'duration': 4.271}
+{'text': 'delivering another big step\nforward in performance.', 'start': 2041.572, 'duration': 2.903}
+{'text': 'It also enables us to deliver\nan amazing experience for our\nusers.', 'start': 2044.508, 'duration': 4.471}
+{'text': 'Everything is super fast\nand incredibly responsive,', 'start': 2049.012, 'duration': 3.271}
+{'text': 'and the system and user data are\nprotected with industry-leading\nsecurity.', 'start': 2052.316, 'duration': 4.637}
+{'text': 'The transition to Apple silicon', 'start': 2056.987, 'duration': 1.569}
+{'text': 'has delivered the largest\ncollection of apps ever for Mac,', 'start': 2058.589, 'duration': 3.237}
+{'text': 'including iPhone and iPad apps,\nwhich can now run on Mac,', 'start': 2061.859, 'duration': 3.737}
+{'text': 'and universal apps', 'start': 2065.63, 'duration': 1.167}
+{'text': 'that unlock the full power\nof the M1 family.', 'start': 2066.83, 'duration': 3.67}
+{'text': 'And new apps with unbelievable\nperformance continue to be\nreleased every week.', 'start': 2070.534, 'duration': 5.106}
+{'text': "We're thrilled with how well\nthis transition is going.", 'start': 2075.673, 'duration': 3.203}
+{'text': 'And because M1 Ultra looks like\na single piece of silicon to\nsoftware,', 'start': 2078.91, 'duration': 4.27}
+{'text': 'apps will benefit\nfrom its extraordinary\ncapabilities', 'start': 2083.213, 'duration': 3.003}
+{'text': 'without any additional work.', 'start': 2086.249, 'duration': 2.27}
+{'text': "Let's hear what some of our\ndevelopers have to say about it.", 'start': 2088.552, 'duration': 3.437}
+{'text': 'Anna: What? 128 gigs of RAM?', 'start': 2092.022, 'duration': 2.403}
+{'text': "Joy: There is no delay.\nIt's just a toggle. Like a light\nswitch.", 'start': 2094.458, 'duration': 2.903}
+{'text': "Ruby: You don't actually have\nthat time to stir your coffee", 'start': 2097.394, 'duration': 2.469}
+{'text': 'because the file just opens.', 'start': 2099.896, 'duration': 1.235}
+{'text': 'And you\'re like "Oh, okay.\nLet\'s get to work!"', 'start': 2101.165, 'duration': 2.002}
+{'text': "Anna: Hi, I'm Anna, and I work\nat Ableton as a software\ndeveloper.", 'start': 2104.902, 'duration': 3.837}
+{'text': 'Victoria: Principal product\nmanager at Adobe for motion\ngraphics.', 'start': 2108.772, 'duration': 2.536}
+{'text': "Ruby: I'm Ruby at Vectorworks.", 'start': 2111.342, 'duration': 1.401}
+{'text': "Elly: I'm Elly Wade, and I work\nat Maxon.", 'start': 2112.776, 'duration': 1.635}
+{'text': "Larissa: Larissa Supnik.\nI'm the lead Sapphire developer.", 'start': 2114.445, 'duration': 2.268}
+{'text': 'Joy: 3D designer, and I\nspecialize in fabric simulation.', 'start': 2116.747, 'duration': 3.637}
+{'text': "Victoria: What we're really\nseeing with the M1 Ultra is a\nfaster workflow", 'start': 2120.417, 'duration': 3.937}
+{'text': 'from very first launch\nall the way through the final\nexport.', 'start': 2124.388, 'duration': 4.104}
+{'text': 'The UI is more fluid.', 'start': 2128.525, 'duration': 1.402}
+{'text': 'Previewing is faster.', 'start': 2129.96, 'duration': 1.702}
+{'text': 'If you can speed up\nevery one of those loops,', 'start': 2131.696, 'duration': 3.136}
+{'text': 'you keep people in their\ncreative flow.', 'start': 2134.865, 'duration': 1.769}
+{'text': 'Larissa: Getting that kind\nof performance change', 'start': 2136.667, 'duration': 2.069}
+{'text': 'between generations is pretty\namazing.', 'start': 2138.769, 'duration': 2.936}
+{'text': 'Joy: Now a designer can say,', 'start': 2141.738, 'duration': 1.969}
+{'text': '“I want this change and I want\nto do this,” and do that\ninstantly.', 'start': 2143.741, 'duration': 4.037}
+{'text': 'Elly: Scene rendering\nis up to 4 times faster.', 'start': 2147.812, 'duration': 2.268}
+{'text': 'And now with these new\nperformance speeds, I can take\nit to the next level.', 'start': 2150.113, 'duration': 4.572}
+{'text': "You're only limited\nby your own imagination.", 'start': 2154.718, 'duration': 2.47}
+{'text': 'Whether it is photo realistic\nrenders', 'start': 2157.221, 'duration': 1.602}
+{'text': 'or whether it is millions of\nobjects flying everywhere.', 'start': 2158.856, 'duration': 2.335}
+{'text': 'Ruby: Everything just flows.', 'start': 2161.224, 'duration': 2.37}
+{'text': "One of the things\nthat you'll really notice", 'start': 2163.627, 'duration': 2.669}
+{'text': 'is the navigation in the 3D\nenvironment.', 'start': 2166.329, 'duration': 3.004}
+{'text': "It's all very responsive and it\ncreates this uninterrupted\nexperience.", 'start': 2169.367, 'duration': 5.338}
+{'text': 'Larissa: With the 270S Sapphire\neffect,', 'start': 2174.739, 'duration': 2.402}
+{'text': 'being able to get effects\nthat users love using', 'start': 2177.174, 'duration': 2.97}
+{'text': 'so much of the time faster is\nphenomenal.', 'start': 2180.177, 'duration': 3.003}
+{'text': 'Anna: You could just keep\nputting layers on top of layers\nand more layers.', 'start': 2183.213, 'duration': 3.904}
+{'text': 'Joy: The fabric simulation is\nfaster now.', 'start': 2187.151, 'duration': 2.902}
+{'text': "So I'm able to see little subtle\ndetails.", 'start': 2190.087, 'duration': 2.169}
+{'text': 'Little things like puckering,\ngathering, pulling of the\nfabric,', 'start': 2192.29, 'duration': 3.236}
+{'text': "when I wasn't able to see that\nbefore.", 'start': 2195.559, 'duration': 1.969}
+{'text': "Victoria: Does it feel buttery\nsmooth? There's an emotional\ncomponent to it.", 'start': 2197.561, 'duration': 3.371}
+{'text': 'Anna: M1 Ultra seems very\nunimpressed with the load I ask\nit to handle.', 'start': 2200.965, 'duration': 5.004}
+{'text': 'Now, you could add more wave\ntable synthesizers together', 'start': 2206.002, 'duration': 3.204}
+{'text': 'and that contributes\nto the richness of your sound.', 'start': 2209.239, 'duration': 3.471}
+{'text': "There's more room for\nimprovisation. DJ sets become\nmore expressive.", 'start': 2212.743, 'duration': 4.305}
+{'text': 'Ruby: People are going to be\nable', 'start': 2217.081, 'duration': 1.267}
+{'text': 'to really push the bounds\nof their creativity.', 'start': 2218.382, 'duration': 2.736}
+{'text': "Victoria: You can actually trust\nthat your stuff's going to get\ndone on a deadline.", 'start': 2221.152, 'duration': 2.969}
+{'text': "Joy: Now we're going to have\ndesigners from different\nbackgrounds,", 'start': 2224.155, 'duration': 2.235}
+{'text': 'different voices, different\nexperiences,', 'start': 2226.423, 'duration': 2.536}
+{'text': 'being able to have a seat at the\ntable.', 'start': 2228.992, 'duration': 2.27}
+{'text': "Anna: The answer\nto “what's going to happen” is,", 'start': 2231.295, 'duration': 2.001}
+{'text': '"I don\'t know," and that\'s\nexciting.', 'start': 2233.33, 'duration': 1.636}
+{'text': '[dramatic music]', 'start': 2234.999, 'duration': 2.135}
+{'text': 'John:\nThe combination of M1 Ultra and\nmacOS', 'start': 2239.97, 'duration': 2.803}
+{'text': 'cranks up the performance of Mac\nyet again.', 'start': 2242.806, 'duration': 2.803}
+{'text': "So now let's talk about", 'start': 2245.642, 'duration': 1.435}
+{'text': "where we're going to use\nthis incredible new chip.", 'start': 2247.111, 'duration': 3.036}
+{'text': "Today, we're going to focus on\nthe place", 'start': 2250.18, 'duration': 1.735}
+{'text': "where so many people create\ntheir life's best work, the\nstudio.", 'start': 2251.949, 'duration': 3.837}
+{'text': 'A studio is where creators\nlike designers, scientists, and\ndevelopers', 'start': 2255.819, 'duration': 4.872}
+{'text': 'change the world.', 'start': 2260.725, 'duration': 1.701}
+{'text': "Whether it's in a home or an\noffice,", 'start': 2262.46, 'duration': 2.001}
+{'text': 'each studio is unique,', 'start': 2264.494, 'duration': 1.702}
+{'text': "customized with the tools\nthat complete the user's\nworkflow,", 'start': 2266.23, 'duration': 4.037}
+{'text': 'and for many, the Mac plays\na pivotal role in this space.', 'start': 2270.301, 'duration': 3.836}
+{'text': "With the transition to M1,\nwe've provided these users", 'start': 2274.171, 'duration': 3.037}
+{'text': 'with two great desktops,\niMac and Mac mini,', 'start': 2277.241, 'duration': 3.137}
+{'text': 'which have remarkable\nperformance and entirely new\ncapabilities.', 'start': 2280.411, 'duration': 3.87}
+{'text': 'Yet there are some users\nwho want even more', 'start': 2284.314, 'duration': 3.037}
+{'text': 'so they can push the limits\nof their creativity.', 'start': 2287.384, 'duration': 2.77}
+{'text': 'First, they want breakthrough\nperformance and capability', 'start': 2290.187, 'duration': 3.437}
+{'text': 'to turn their studio\ninto a creative powerhouse.', 'start': 2293.657, 'duration': 3.571}
+{'text': 'Next, they want a wide range\nof connectivity', 'start': 2297.261, 'duration': 2.669}
+{'text': 'for peripherals that are key\nto their studio workflow.', 'start': 2299.963, 'duration': 3.504}
+{'text': 'And finally, many want\na modular system and display', 'start': 2303.5, 'duration': 4.038}
+{'text': 'so they can create their perfect\nsetup.', 'start': 2307.571, 'duration': 2.102}
+{'text': "So that's what we're introducing\ntoday, something totally new", 'start': 2309.706, 'duration': 4.205}
+{'text': 'that gives our users\nexactly what they need', 'start': 2313.944, 'duration': 2.569}
+{'text': 'to build the studio of their\ndreams.', 'start': 2316.547, 'duration': 2.102}
+{'text': 'And here it is.', 'start': 2318.682, 'duration': 1.068}
+{'text': '[dramatic music]', 'start': 2320.785, 'duration': 6.006}
+{'text': '[energizing hip-hop beat]', 'start': 2336.233, 'duration': 5.973}
+{'text': '[♪ ♪]', 'start': 2346.41, 'duration': 7.041}
+{'text': 'This is Mac Studio and Studio\nDisplay.', 'start': 2357.388, 'duration': 3.737}
+{'text': 'Mac Studio is an entirely new\nMac', 'start': 2361.158, 'duration': 2.603}
+{'text': 'with the unbelievable\nperformance of our most powerful\nApple silicon,', 'start': 2363.794, 'duration': 3.837}
+{'text': 'M1 Max and M1 Ultra.', 'start': 2367.664, 'duration': 3.003}
+{'text': 'And the Studio Display is\nthe perfect complement to Mac\nStudio,', 'start': 2370.701, 'duration': 3.637}
+{'text': 'with a phenomenal set of\nfeatures', 'start': 2374.371, 'duration': 1.935}
+{'text': 'and that integrated experience\nMac users love.', 'start': 2376.34, 'duration': 2.836}
+{'text': "So let's dive in,\nstarting with Mac Studio.", 'start': 2379.209, 'duration': 3.67}
+{'text': "And to tell you all about it,\nhere's Colleen.", 'start': 2382.913, 'duration': 2.269}
+{'text': 'Colleen: Mac Studio is a\nbreakthrough in personal\ncomputing.', 'start': 2395.659, 'duration': 4.371}
+{'text': "It's unlike anything\nyou've ever seen before.", 'start': 2400.063, 'duration': 2.703}
+{'text': "It's the first computer\nto put outrageous performance,", 'start': 2402.799, 'duration': 3.571}
+{'text': 'extensive connectivity,\nand entirely new capabilities', 'start': 2406.403, 'duration': 3.87}
+{'text': 'into an unbelievably compact\nform that lives right on your\ndesk,', 'start': 2410.307, 'duration': 4.371}
+{'text': "where it's always within easy\nreach.", 'start': 2414.712, 'duration': 2.903}
+{'text': 'Mac Studio is going to\ncompletely transform studio\nworkflows everywhere.', 'start': 2417.648, 'duration': 5.839}
+{'text': "Let's start with its design.", 'start': 2423.52, 'duration': 3.104}
+{'text': 'With the power and efficiency\nof Apple silicon,', 'start': 2426.657, 'duration': 3.102}
+{'text': 'we were able to totally\nreimagine', 'start': 2429.793, 'duration': 2.336}
+{'text': 'what a high-performance desktop\ncould look like.', 'start': 2432.162, 'duration': 3.204}
+{'text': 'The exterior is machined\nfrom a single aluminum\nextrusion,', 'start': 2435.399, 'duration': 3.836}
+{'text': 'with a footprint of just 7.7\ninches square', 'start': 2439.269, 'duration': 3.403}
+{'text': 'and height of only 3.7-inches,', 'start': 2442.706, 'duration': 2.703}
+{'text': 'so it takes up very little space\nand fits perfectly under most\ndisplays.', 'start': 2445.442, 'duration': 5.806}
+{'text': 'Inside, every element was\ndesigned to produce', 'start': 2451.282, 'duration': 2.835}
+{'text': 'an unprecedented amount of\nperformance in such a small form\nfactor.', 'start': 2454.151, 'duration': 5.138}
+{'text': 'The innovative thermal system\nbegins with a unique\ndouble-sided blower', 'start': 2459.323, 'duration': 3.87}
+{'text': 'pulling air into the system,\nacross the entire circumference', 'start': 2463.226, 'duration': 3.904}
+{'text': 'of the perforated aluminum base.', 'start': 2467.164, 'duration': 3.003}
+{'text': 'The air moves over the custom\ncircular power supply and\nthrough channels', 'start': 2470.2, 'duration': 4.07}
+{'text': "precisely placed to guide it\nto the chip's thermal module.", 'start': 2474.304, 'duration': 4.505}
+{'text': 'Finally, the air is propelled\nthrough a low-impedance rear\nexhaust', 'start': 2478.842, 'duration': 3.871}
+{'text': 'containing over 2,000\nprecisely-machined perforations.', 'start': 2482.746, 'duration': 4.671}
+{'text': 'And due to the efficiency of M1\nMax and M1 Ultra, the sound is\nso minimal.', 'start': 2487.45, 'duration': 6.074}
+{'text': "For most workloads,\nyou'll barely even hear it.", 'start': 2493.557, 'duration': 3.703}
+{'text': "With this remarkably compact\nand quiet system within arm's\nreach,", 'start': 2497.294, 'duration': 4.938}
+{'text': 'you get easy access to essential\nconnectivity throughout the day.', 'start': 2502.265, 'duration': 4.371}
+{'text': "So next, let's take a look at\nthe high-performance I/O Mac\nStudio provides.", 'start': 2506.669, 'duration': 6.04}
+{'text': 'On the back,\nthere are four Thunderbolt 4\nports', 'start': 2512.742, 'duration': 2.47}
+{'text': 'to connect displays\nand high-performance devices,', 'start': 2515.245, 'duration': 3.503}
+{'text': 'a 10 Gigabit Ethernet port,\ntwo USB-A ports, an HDMI port,', 'start': 2518.782, 'duration': 6.106}
+{'text': 'and a pro audio jack\nfor high-impedance headphones', 'start': 2524.921, 'duration': 3.804}
+{'text': 'or external amplified speakers.', 'start': 2528.759, 'duration': 3.07}
+{'text': 'WiFi 6 and Bluetooth 5\nare built in as well.', 'start': 2531.862, 'duration': 3.37}
+{'text': 'And since many users frequently\nconnect and disconnect devices,', 'start': 2535.265, 'duration': 4.638}
+{'text': 'like portable storage,', 'start': 2539.936, 'duration': 1.702}
+{'text': 'we also put connectivity on the\nfront, for even easier access.', 'start': 2541.672, 'duration': 5.138}
+{'text': 'Systems with M1 Max have two\nUSB-C ports,', 'start': 2546.843, 'duration': 3.571}
+{'text': 'providing 10 gigabits per second\nUSB-3 data transfer.', 'start': 2550.447, 'duration': 4.271}
+{'text': 'And with M1 Ultra, these ports\nare Thunderbolt 4,', 'start': 2554.751, 'duration': 3.371}
+{'text': 'with up to 40 gigabits per\nsecond data transfer speeds.', 'start': 2558.155, 'duration': 3.97}
+{'text': "There's also an SD card slot\nto easily import photos or\nvideo.", 'start': 2562.159, 'duration': 5.205}
+{'text': 'And Mac Studio offers\nextensive display support,', 'start': 2567.397, 'duration': 3.603}
+{'text': 'for up to four Pro Display XDRs,\nplus a 4K TV,', 'start': 2571.034, 'duration': 5.139}
+{'text': 'driving nearly 90 million\npixels.', 'start': 2576.206, 'duration': 2.769}
+{'text': 'With this wide array\nof advanced connectivity,', 'start': 2579.009, 'duration': 3.503}
+{'text': 'you can configure your studio\nto your exact needs.', 'start': 2582.545, 'duration': 3.337}
+{'text': "Now let's take a look", 'start': 2585.915, 'duration': 1.902}
+{'text': 'at the unprecedented performance\nMac Studio will deliver.', 'start': 2587.851, 'duration': 4.972}
+{'text': 'When you compare Mac Studio\nto our most powerful Mac\ndesktops,', 'start': 2592.856, 'duration': 4.037}
+{'text': 'the 27-inch iMac and Mac Pro,', 'start': 2596.927, 'duration': 3.003}
+{'text': 'it takes performance\nto astonishing new heights.', 'start': 2599.963, 'duration': 3.57}
+{'text': "Let's start with Mac Studio with\nM1 Max.", 'start': 2603.567, 'duration': 3.337}
+{'text': 'For CPU performance, Mac Studio\nwith M1 Max is up to 2.5 times\nfaster', 'start': 2606.937, 'duration': 6.039}
+{'text': 'than the fastest 27-inch iMac,', 'start': 2613.01, 'duration': 3.336}
+{'text': 'and its 50% faster than Mac Pro\nwith a 16-core Xeon processor,', 'start': 2616.38, 'duration': 5.438}
+{'text': 'our most popular configuration.', 'start': 2621.852, 'duration': 2.402}
+{'text': 'Graphics performance on Mac\nStudio with M1 Max is also\ntremendous.', 'start': 2624.287, 'duration': 4.972}
+{'text': "It's up to 3.4x faster", 'start': 2629.292, 'duration': 2.67}
+{'text': 'than the fastest graphics\non the 27-inch iMac.', 'start': 2631.996, 'duration': 4.237}
+{'text': 'And it even outperforms Mac Pro\nwith its most popular graphics\ncard.', 'start': 2636.266, 'duration': 5.238}
+{'text': 'Mac Studio is over 3x faster.', 'start': 2641.538, 'duration': 3.303}
+{'text': 'Mac Studio with M1 Max\nis the high-performance machine', 'start': 2644.874, 'duration': 4.071}
+{'text': 'many of our users have been\nwaiting for to take their\nworkflows to the next level.', 'start': 2648.979, 'duration': 5.739}
+{'text': 'And Mac Studio with M1 Ultra', 'start': 2654.751, 'duration': 2.236}
+{'text': 'takes performance\nto a whole other dimension.', 'start': 2657.021, 'duration': 3.636}
+{'text': 'The CPU performance on Mac\nStudio with M1 Ultra is up to\n3.8x faster', 'start': 2660.69, 'duration': 5.572}
+{'text': 'than the fastest 27-inch iMac.', 'start': 2666.296, 'duration': 2.303}
+{'text': "And it's up to 90% faster\nthan Mac Pro with 16-cores.", 'start': 2668.632, 'duration': 5.538}
+{'text': 'We can even compare\nMac Studio with M1 Ultra', 'start': 2674.203, 'duration': 3.772}
+{'text': 'to Mac Pro with 28-cores.', 'start': 2678.008, 'duration': 3.036}
+{'text': "It's up to 60% faster.", 'start': 2681.077, 'duration': 2.537}
+{'text': 'That is incredible.', 'start': 2683.647, 'duration': 2.135}
+{'text': 'And graphics performance on Mac\nStudio with M1 Ultra just\ncrushes 27-inch iMac.', 'start': 2685.815, 'duration': 6.206}
+{'text': "It's up to a remarkable 4.5x\nfaster.", 'start': 2692.055, 'duration': 5.138}
+{'text': 'It even exceeds Mac Pro\nwith its fastest graphics card.', 'start': 2697.227, 'duration': 4.437}
+{'text': 'Mac Studio is up to 80% faster.', 'start': 2701.698, 'duration': 3.504}
+{'text': 'Now, in the same way that\nMacBook Pro', 'start': 2705.235, 'duration': 3.037}
+{'text': 'shattered the limits of graphics\nmemory in a laptop,', 'start': 2708.305, 'duration': 3.67}
+{'text': 'Mac Studio will do the same\nfor the desktop.', 'start': 2712.008, 'duration': 3.204}
+{'text': 'The most powerful workstation\ngraphics card available today', 'start': 2715.245, 'duration': 3.537}
+{'text': 'offers 48GB of video memory.', 'start': 2718.815, 'duration': 3.804}
+{'text': 'With M1 Max, you can access\nup to 64GB of unified memory.', 'start': 2722.653, 'duration': 5.605}
+{'text': 'And with M1 Ultra, you get\nup to 128GB of unified memory', 'start': 2728.291, 'duration': 5.339}
+{'text': 'for enormous graphics tasks.', 'start': 2733.663, 'duration': 2.436}
+{'text': 'No other graphics card comes\nclose.', 'start': 2736.132, 'duration': 3.537}
+{'text': 'And when it comes to storage,', 'start': 2739.703, 'duration': 1.401}
+{'text': 'the SSD in Mac Studio delivers\nup to a super fast 7.4GB per\nsecond', 'start': 2741.138, 'duration': 5.439}
+{'text': 'of performance and up to 8TB\ncapacity.', 'start': 2746.61, 'duration': 3.303}
+{'text': 'Today, more and more cameras\nare capturing ProRes video,', 'start': 2749.946, 'duration': 5.172}
+{'text': 'from the iPhone 13 Pro\nto the Sony Venice cinema\ncamera.', 'start': 2755.151, 'duration': 4.638}
+{'text': "With M1 Ultra's\nextraordinarily powerful Media\nEngine,", 'start': 2759.823, 'duration': 4.204}
+{'text': 'Mac Studio can play\nan unprecedented 18 streams', 'start': 2764.06, 'duration': 4.772}
+{'text': 'of 8K ProRes 422 video.', 'start': 2768.865, 'duration': 2.569}
+{'text': 'There is no other computer\nin the world that can do this.', 'start': 2771.467, 'duration': 4.172}
+{'text': 'To sum up this game-changing\nperformance,', 'start': 2775.672, 'duration': 3.136}
+{'text': 'Mac Studio with M1 Max is up to\n3.4x faster than our fastest\niMac.', 'start': 2778.842, 'duration': 6.34}
+{'text': "It's a huge upgrade for 27-inch\niMac users", 'start': 2785.215, 'duration': 3.637}
+{'text': 'looking to move\nto more powerful Apple silicon.', 'start': 2788.885, 'duration': 4.071}
+{'text': 'And for those looking\nfor the most extreme\nperformance,', 'start': 2792.99, 'duration': 3.569}
+{'text': 'Mac Studio with M1 Ultra\nis up to 80% faster', 'start': 2796.592, 'duration': 4.105}
+{'text': 'than our top of the line Mac\nPro.', 'start': 2800.73, 'duration': 3.037}
+{'text': "So now let's take a look\nat how this unprecedented\nperformance", 'start': 2803.8, 'duration': 4.238}
+{'text': 'is going to transform the\nstudio.', 'start': 2808.071, 'duration': 3.37}
+{'text': 'With the breakthrough\ncapabilities of Mac Studio,', 'start': 2811.474, 'duration': 3.004}
+{'text': 'users can completely reimagine\ntheir workflows', 'start': 2814.511, 'duration': 3.003}
+{'text': 'and push their creativity\nfurther than ever.', 'start': 2817.547, 'duration': 3.336}
+{'text': 'For musicians, Mac Studio powers\nthe digital audio workstation', 'start': 2820.917, 'duration': 4.972}
+{'text': "they've been dreaming of.", 'start': 2825.922, 'duration': 2.136}
+{'text': 'They can bring their most\ncomplex compositions to life', 'start': 2828.091, 'duration': 3.27}
+{'text': 'with hundreds of tracks,\nplug-ins, and virtual\ninstruments', 'start': 2831.394, 'duration': 4.171}
+{'text': 'all played in real-time.', 'start': 2835.598, 'duration': 3.337}
+{'text': '3D studios have new,\nbreakthrough capabilities with\nMac Studio.', 'start': 2838.968, 'duration': 5.239}
+{'text': 'Artists can now interact fluidly\nwith more extreme geometry', 'start': 2844.24, 'duration': 4.372}
+{'text': 'and run complex particle\nsimulations in a fraction of the\ntime.', 'start': 2848.645, 'duration': 4.938}
+{'text': 'They can even work\nwith massive environments', 'start': 2853.616, 'duration': 2.77}
+{'text': 'that were previously impossible\nto render.', 'start': 2856.419, 'duration': 4.038}
+{'text': 'For software development\nstudios, Mac Studio is an\nabsolute monster.', 'start': 2860.49, 'duration': 6.139}
+{'text': 'Engineers can now build new\nversions of their code in warp\nspeed', 'start': 2866.663, 'duration': 4.238}
+{'text': 'and run more automated\nintegration and testing than\never.', 'start': 2870.934, 'duration': 3.337}
+{'text': 'Mac Studio brings staggering\nperformance to the photo studio.', 'start': 2875.538, 'duration': 4.438}
+{'text': 'Photographers can capture and\nedit huge gigapixel images', 'start': 2880.009, 'duration': 4.104}
+{'text': 'composited with hundreds of\nlayers,', 'start': 2884.147, 'duration': 2.77}
+{'text': 'and export final images for\npublish in a flash.', 'start': 2886.95, 'duration': 4.371}
+{'text': 'And Mac Studio is a powerhouse\nsystem for video studios.', 'start': 2891.354, 'duration': 5.306}
+{'text': 'Colorists can add more\ncorrections to their project', 'start': 2896.693, 'duration': 2.869}
+{'text': 'while maintaining fluid\nplayback.', 'start': 2899.596, 'duration': 2.635}
+{'text': 'Editors working on multi-cam\nprojects', 'start': 2902.265, 'duration': 2.769}
+{'text': 'can play more streams of 8K\nvideo than ever before.', 'start': 2905.068, 'duration': 4.037}
+{'text': 'And encoding video for final\ndelivery is faster than ever.', 'start': 2909.139, 'duration': 5.439}
+{'text': 'The performance and capability\nthat Mac Studio brings', 'start': 2914.611, 'duration': 3.537}
+{'text': 'to so many studios\nis going to change everything.', 'start': 2918.181, 'duration': 4.738}
+{'text': "There's never been a desktop\nlike it.", 'start': 2922.953, 'duration': 2.135}
+{'text': 'And when it comes to the\nenvironment, Mac Studio raises\nthe bar yet again.', 'start': 2925.121, 'duration': 5.272}
+{'text': 'It uses far less energy than\ncompetitors to deliver its\nextraordinary performance.', 'start': 2930.426, 'duration': 6.24}
+{'text': 'Over the course of a year,\nMac Studio will use', 'start': 2936.7, 'duration': 2.635}
+{'text': 'up to 1,000 kilowatt-hours less\nenergy than a high-end PC\ndesktop.', 'start': 2939.369, 'duration': 5.739}
+{'text': 'Mac Studio is also free\nof numerous harmful substances.', 'start': 2945.142, 'duration': 4.27}
+{'text': 'It uses 100% recycled rare earth\nelements in the magnets', 'start': 2949.446, 'duration': 3.77}
+{'text': 'and recycled tin in the solder\nof the main logic board.', 'start': 2953.249, 'duration': 3.47}
+{'text': "So that's Mac Studio,", 'start': 2956.752, 'duration': 2.303}
+{'text': 'featuring M1 Max and the new M1\nUltra,', 'start': 2959.088, 'duration': 3.871}
+{'text': 'the most powerful chip ever\nbuilt for a personal computer.', 'start': 2962.993, 'duration': 3.904}
+{'text': 'Mac Studio will supercharge the\nworkspace with breathtaking\nperformance,', 'start': 2966.93, 'duration': 5.906}
+{'text': 'unleashing your creativity\nlike never before.', 'start': 2972.869, 'duration': 4.104}
+{'text': 'Now, we designed Mac Studio\ntogether with the Studio\nDisplay,', 'start': 2977.007, 'duration': 4.604}
+{'text': 'to complete\nthe ultimate studio experience.', 'start': 2981.645, 'duration': 3.302}
+{'text': "And to tell you more, here's\nNicole.", 'start': 2984.981, 'duration': 2.336}
+{'text': '[exciting music]', 'start': 2987.35, 'duration': 6.006}
+{'text': 'Nicole: The Studio Display\nis in a class of its own.', 'start': 2993.957, 'duration': 3.771}
+{'text': "Along with a gorgeous screen,\nit's loaded with incredible\nfeatures", 'start': 2997.761, 'duration': 4.871}
+{'text': 'that no other desktop display\ncan deliver.', 'start': 3002.666, 'duration': 3.67}
+{'text': 'And it provides that integrated\nexperience Mac users love.', 'start': 3006.369, 'duration': 4.705}
+{'text': "Let's start with the design.", 'start': 3011.107, 'duration': 2.536}
+{'text': 'Studio Display has an all-screen\ndesign with narrow borders.', 'start': 3013.676, 'duration': 4.005}
+{'text': 'Its all-aluminum enclosure', 'start': 3017.714, 'duration': 1.902}
+{'text': 'houses an advanced set of\nfeatures in a slim profile,', 'start': 3019.649, 'duration': 4.037}
+{'text': 'and the stand allows you\nto tilt the display up to 30\ndegrees.', 'start': 3023.72, 'duration': 4.738}
+{'text': 'To customize Studio Display\nfor your workspace,', 'start': 3028.491, 'duration': 3.27}
+{'text': 'you can also choose a tilt-\nand height-adjustable stand\noption,', 'start': 3031.795, 'duration': 4.537}
+{'text': 'which has a counterbalancing arm', 'start': 3036.366, 'duration': 2.035}
+{'text': 'that makes the display feel\nweightless.', 'start': 3038.434, 'duration': 2.837}
+{'text': "There's also a VESA adapter\noption", 'start': 3041.304, 'duration': 2.603}
+{'text': 'that lets you mount the display\nin landscape or portrait\norientation.', 'start': 3043.94, 'duration': 4.338}
+{'text': 'Studio Display\nfeatures an expansive screen', 'start': 3048.311, 'duration': 3.069}
+{'text': 'that has a 27-inch active area', 'start': 3051.414, 'duration': 2.936}
+{'text': 'with a total of 14.7 million\npixels at 218 pixels per inch,', 'start': 3054.384, 'duration': 6.406}
+{'text': 'making it a 5K Retina display.', 'start': 3060.824, 'duration': 3.136}
+{'text': 'And with 600 nits of brightness,\nP3 wide color,', 'start': 3063.994, 'duration': 4.17}
+{'text': 'and support for over a billion\ncolors,', 'start': 3068.197, 'duration': 2.804}
+{'text': 'it brings images to life\nwith spectacular detail.', 'start': 3071.034, 'duration': 4.904}
+{'text': 'It also has True Tone\nfor a more natural viewing\nexperience,', 'start': 3075.972, 'duration': 4.204}
+{'text': 'plus an industry-leading\nanti-reflective coating,', 'start': 3080.209, 'duration': 3.704}
+{'text': 'for better comfort and\nreadability.', 'start': 3083.946, 'duration': 3.07}
+{'text': 'And for studios with bright\nlight sources,', 'start': 3087.05, 'duration': 2.636}
+{'text': "there's an innovative\nnano-texture glass option", 'start': 3089.719, 'duration': 3.236}
+{'text': 'that scatters light\nto further minimize glare,', 'start': 3092.989, 'duration': 3.336}
+{'text': 'while delivering\noutstanding image quality.', 'start': 3096.359, 'duration': 3.67}
+{'text': 'Another thing\nthat makes Studio Display unique', 'start': 3100.063, 'duration': 2.336}
+{'text': 'is the fact that it actually has\nan A13 Bionic chip inside,', 'start': 3102.432, 'duration': 4.338}
+{'text': 'which enables it to deliver\namazing experiences', 'start': 3106.803, 'duration': 3.503}
+{'text': 'with a highly advanced\ncamera and audio system.', 'start': 3110.34, 'duration': 3.936}
+{'text': "There's a 12-megapixel Ultra\nWide camera,", 'start': 3114.31, 'duration': 3.437}
+{'text': "which is the same sensational\ncamera that's been a huge hit on\niPad.", 'start': 3117.78, 'duration': 5.806}
+{'text': 'And powered by the incredible\ntechnology in Apple silicon,', 'start': 3123.62, 'duration': 4.137}
+{'text': 'it supports Center Stage,', 'start': 3127.79, 'duration': 2.236}
+{'text': 'which comes to the Mac\nfor the very first time,', 'start': 3130.06, 'duration': 3.47}
+{'text': 'so video calls are so much more\nengaging.', 'start': 3133.563, 'duration': 3.737}
+{'text': 'And to make this the ultimate\nvideo conferencing display,', 'start': 3137.334, 'duration': 3.77}
+{'text': 'it also includes\nan array of studio-quality mics.', 'start': 3141.137, 'duration': 4.004}
+{'text': 'They have an especially low\nnoise floor for crystal-clear\ncalls.', 'start': 3145.175, 'duration': 4.971}
+{'text': 'Studio Display also features\na high-fidelity six-speaker\nsound system', 'start': 3150.179, 'duration': 5.773}
+{'text': 'that delivers\nan unbelievable listening\nexperience.', 'start': 3155.985, 'duration': 4.204}
+{'text': 'It has four force-cancelling\nwoofers that minimize distortion', 'start': 3160.222, 'duration': 3.938}
+{'text': 'and produce bold, articulate\nbass', 'start': 3164.193, 'duration': 2.903}
+{'text': 'and two high-performance\ntweeters that create accurate\nmids and crisp highs.', 'start': 3167.13, 'duration': 5.606}
+{'text': 'And because Apple silicon can\nprocess multi-channel surround\nsound,', 'start': 3172.769, 'duration': 4.337}
+{'text': 'the speakers also support\nSpatial Audio', 'start': 3177.139, 'duration': 3.604}
+{'text': 'for music and video with Dolby\nAtmos,', 'start': 3180.777, 'duration': 3.403}
+{'text': 'creating a truly cinematic\nviewing experience.', 'start': 3184.214, 'duration': 4.237}
+{'text': 'Simply put, these are, by far,\nthe highest fidelity speakers', 'start': 3188.484, 'duration': 5.272}
+{'text': "we've ever created for the Mac.", 'start': 3193.79, 'duration': 2.77}
+{'text': 'And this is the best combination\nof camera and audio', 'start': 3196.593, 'duration': 4.171}
+{'text': 'ever in a desktop display.', 'start': 3200.797, 'duration': 3.27}
+{'text': "Next, let's talk about how\nStudio Display connects with\nyour other devices.", 'start': 3204.1, 'duration': 4.738}
+{'text': 'It has three USB-C ports that\ndeliver speeds up to 10 gigabits\nper second.', 'start': 3208.871, 'duration': 5.906}
+{'text': 'So you can connect peripherals,\nstorage, and networking right\ninto the display.', 'start': 3214.811, 'duration': 5.272}
+{'text': "And there's a Thunderbolt port,\nwhich allows you to connect\nStudio Display", 'start': 3220.116, 'duration': 4.371}
+{'text': 'and any plugged in peripherals\nto your Mac with a single cable.', 'start': 3224.521, 'duration': 4.804}
+{'text': 'That same cable delivers 96W of\npower,', 'start': 3229.358, 'duration': 4.105}
+{'text': 'which allows you to charge\nany Mac notebook,', 'start': 3233.496, 'duration': 3.303}
+{'text': 'and it can even fast charge\na 14-inch MacBook Pro.', 'start': 3236.832, 'duration': 4.338}
+{'text': 'And you can connect up to three\nStudio Displays to your MacBook\nPro,', 'start': 3241.203, 'duration': 5.706}
+{'text': 'creating an incredible edit bay\nor 3D animation studio.', 'start': 3246.943, 'duration': 5.571}
+{'text': 'Finally, to complete your setup,', 'start': 3252.548, 'duration': 1.803}
+{'text': "we've added a new\nsilver and black color option", 'start': 3254.384, 'duration': 2.903}
+{'text': 'to the Magic Keyboard with Touch\nID,', 'start': 3257.32, 'duration': 2.436}
+{'text': 'the Magic Trackpad,', 'start': 3259.789, 'duration': 1.402}
+{'text': 'and the Magic Mouse,', 'start': 3261.224, 'duration': 1.335}
+{'text': 'which beautifully complement\nthe design of the display.', 'start': 3262.592, 'duration': 3.67}
+{'text': 'Studio Display has also been\ndesigned to minimize its\nenvironmental impact.', 'start': 3266.295, 'duration': 5.873}
+{'text': 'It uses 100% recycled rare earth\nelements in all magnets', 'start': 3272.202, 'duration': 5.405}
+{'text': 'and is free of numerous\nharmful substances.', 'start': 3277.64, 'duration': 3.937}
+{'text': 'It also meets our high standards\nfor energy efficiency.', 'start': 3281.611, 'duration': 4.737}
+{'text': "So that's the all-new Studio\nDisplay.", 'start': 3286.382, 'duration': 3.437}
+{'text': 'No other display has this unique\noffering of 5K Retina resolution', 'start': 3289.852, 'duration': 5.639}
+{'text': 'and advanced camera with Center\nStage', 'start': 3295.524, 'duration': 2.837}
+{'text': 'and incredibly high fidelity\naudio,', 'start': 3298.394, 'duration': 3.57}
+{'text': 'all in a refined, aluminum\ndesign.', 'start': 3301.997, 'duration': 3.404}
+{'text': "And it's a great display to pair\nwith any Mac,", 'start': 3305.435, 'duration': 3.736}
+{'text': 'like MacBook Pro, MacBook Air,', 'start': 3309.205, 'duration': 3.303}
+{'text': 'Mac mini, and of course, Mac\nStudio.', 'start': 3312.542, 'duration': 4.571}
+{'text': 'Now, before I hand it back to\nJohn,', 'start': 3317.147, 'duration': 2.401}
+{'text': "let's take a look at Mac Studio\nand Studio Display in action.", 'start': 3319.582, 'duration': 5.473}
+{'text': '[intense music]', 'start': 3329.325, 'duration': 6.007}
+{'text': '[♪ ♪]', 'start': 3345.308, 'duration': 7.041}
+{'text': '[♪ ♪]', 'start': 3362.358, 'duration': 7.008}
+{'text': '[whistling]', 'start': 3375.771, 'duration': 3.605}
+{'text': '[♪ ♪]', 'start': 3385.915, 'duration': 7.007}
+{'text': '[♪ ♪]', 'start': 3402.932, 'duration': 6.974}
+{'text': '[echoing boom]', 'start': 3410.54, 'duration': 5.872}
+{'text': '[gasps]', 'start': 3416.445, 'duration': 0.868}
+{'text': "John:\nSo that's Mac Studio and Studio\nDisplay.", 'start': 3423.553, 'duration': 2.969}
+{'text': 'With incredible performance,\nextensive connectivity,', 'start': 3426.556, 'duration': 3.47}
+{'text': 'and a modular design,', 'start': 3430.059, 'duration': 1.735}
+{'text': 'Mac Studio with M1 Max starts at\n$1,999,', 'start': 3431.828, 'duration': 3.97}
+{'text': 'And Mac Studio with M1 Ultra\nstarts at $3,999.', 'start': 3435.832, 'duration': 4.036}
+{'text': 'No other desktop in the world', 'start': 3439.902, 'duration': 1.535}
+{'text': 'can offer this level of\nperformance and capability at\nthis price.', 'start': 3441.47, 'duration': 4.171}
+{'text': 'And the Studio Display,\nwith its awesome set of\nfeatures,', 'start': 3445.674, 'duration': 3.137}
+{'text': 'is $1,599,', 'start': 3448.844, 'duration': 1.836}
+{'text': 'and it can be configured\nwith nano-texture glass', 'start': 3450.713, 'duration': 2.936}
+{'text': 'and a choice of stand options.', 'start': 3453.683, 'duration': 2.168}
+{'text': 'You can order both products\ntoday', 'start': 3455.884, 'duration': 2.036}
+{'text': "and they'll be available on\nMarch 18.", 'start': 3457.953, 'duration': 3.17}
+{'text': 'Today, we built upon\nthe amazing capabilities of M1\nMax', 'start': 3461.157, 'duration': 3.136}
+{'text': 'with the introduction of M1\nUltra.', 'start': 3464.326, 'duration': 2.636}
+{'text': 'With its UltraFusion\narchitecture, powerful CPU,\nmassive GPU,', 'start': 3466.996, 'duration': 4.37}
+{'text': 'and staggering memory bandwidth,', 'start': 3471.4, 'duration': 1.969}
+{'text': "it's the next giant leap\nfor Apple silicon.", 'start': 3473.402, 'duration': 3.104}
+{'text': 'And we introduced Mac Studio,\nwhich was designed', 'start': 3476.539, 'duration': 3.002}
+{'text': 'to put all this groundbreaking\nperformance right on your desk.', 'start': 3479.575, 'duration': 3.27}
+{'text': 'Together with the Studio\nDisplay,', 'start': 3482.878, 'duration': 1.969}
+{'text': 'these products will empower\nusers to create the studios of\ntheir dreams', 'start': 3484.881, 'duration': 4.338}
+{'text': 'and continue to change the\nworld.', 'start': 3489.252, 'duration': 2.302}
+{'text': 'And they join the rest of our\nincredible Mac lineup with Apple\nsilicon,', 'start': 3491.588, 'duration': 3.87}
+{'text': 'making our transition nearly\ncomplete,', 'start': 3495.491, 'duration': 2.536}
+{'text': 'with just one more product to\ngo,', 'start': 3498.06, 'duration': 2.203}
+{'text': 'Mac Pro, but that is for another\nday.', 'start': 3500.296, 'duration': 3.036}
+{'text': 'Now, back to Tim.', 'start': 3503.366, 'duration': 1.034}
+{'text': '[exciting music]', 'start': 3504.433, 'duration': 1.736}
+{'text': "Tim: We've had\nan extraordinary relationship", 'start': 3506.202, 'duration': 2.001}
+{'text': "with the world's creative\ncommunity,", 'start': 3508.237, 'duration': 2.202}
+{'text': 'and the Mac has been such\nan important tool for these\nusers.', 'start': 3510.473, 'duration': 3.77}
+{'text': "We're excited to bring them\nan entirely new system--", 'start': 3514.277, 'duration': 3.402}
+{'text': 'Mac Studio and Studio Display--', 'start': 3517.713, 'duration': 2.269}
+{'text': 'and to see all of the amazing\nthings they will do with it.', 'start': 3520.016, 'duration': 3.303}
+{'text': "It's remarkable to think\nabout the profound impact", 'start': 3523.352, 'duration': 3.403}
+{'text': 'Apple silicon is having on the\nMac and our other products.', 'start': 3526.789, 'duration': 3.837}
+{'text': 'The A15 Bionic drives\nthe most powerful phones in the\nworld:', 'start': 3530.66, 'duration': 5.238}
+{'text': 'iPhone 13 and iPhone 13 Pro.', 'start': 3535.931, 'duration': 3.037}
+{'text': 'And today we introduced\ntwo striking new green finishes.', 'start': 3539.002, 'duration': 3.636}
+{'text': 'The new iPhone SE,\nour most affordable iPhone,', 'start': 3542.672, 'duration': 4.304}
+{'text': 'is also now powered by\nthe incredible A15 Bionic chip.', 'start': 3547.009, 'duration': 5.673}
+{'text': 'The new iPad Air\ntakes a big leap with the M1\nchip,', 'start': 3552.715, 'duration': 4.204}
+{'text': 'as well as 5G, Center Stage,\nand beautiful new finishes.', 'start': 3556.952, 'duration': 4.772}
+{'text': "It's truly remarkable\nwhat Apple silicon makes\npossible.", 'start': 3563.259, 'duration': 3.804}
+{'text': 'It delivers industry-leading\nperformance, technologies, and\nadvancements,', 'start': 3567.096, 'duration': 5.572}
+{'text': 'and the seamless integration\nof hardware and software', 'start': 3572.702, 'duration': 4.037}
+{'text': 'enables us to provide\nexperiences that no one else\ncan.', 'start': 3576.773, 'duration': 4.838}
+{'text': 'We look forward to seeing\nwhat our users will do', 'start': 3581.644, 'duration': 2.202}
+{'text': 'with all of these incredible\nproducts', 'start': 3583.88, 'duration': 2.369}
+{'text': "and the impact they will have\non people's lives.", 'start': 3586.282, 'duration': 3.136}
+{'text': 'Thank you again for joining us.', 'start': 3589.452, 'duration': 2.035}
+{'text': 'Have a great day.', 'start': 3591.521, 'duration': 1.802}
+{'text': '[upbeat music]', 'start': 3593.356, 'duration': 7.007}
+{'text': '[♪ ♪]', 'start': 3610.339, 'duration': 8.042}
+{'text': '[♪ ♪]', 'start': 3631.027, 'duration': 7.007}
+{'text': '[♪ ♪]', 'start': 3639.235, 'duration': 4.938}
+{'text': '[♪ ♪]', 'start': 3647.209, 'duration': 5.006}
+{'text': '[♪ ♪]', 'start': 3655.251, 'duration': 4.972}
+{'text': '[♪ ♪]', 'start': 3663.259, 'duration': 4.972}
+{'text': '[♪ ♪]', 'start': 3671.267, 'duration': 4.938}
+{'text': 'Apple Event', 'start': 3681.21, 'duration': 3.037}
+{'text': 'Apple Event', 'start': 3686.248, 'duration': 3.004}
+{'text': 'Apple Event', 'start': 3691.253, 'duration': 3.004}
